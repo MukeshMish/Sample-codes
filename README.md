@@ -1,0 +1,1 @@
+Respected viewer here are the sample codes and they are classified as literary works meaning that they are protected under copyright act © if you try to edit, resale or use them for your app/benifit without authorization from the owner will result in heavy penalty and lawsuit.
