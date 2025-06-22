@@ -2,5 +2,6 @@ COLOR 2
 wmic
 wmic=quit
 netsh wlan show profiles
-netsh wlan show profiles name="realme C21" key=clear
+#replace Your profile with the name of profile
+netsh wlan show profiles name="Your profile" key=clear
 pause
